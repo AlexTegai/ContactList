@@ -2,7 +2,7 @@
 //  ContactListApp.swift
 //  ContactList
 //
-//  Created by Alex Tegai on 06.07.2021.
+//  Created by Alex Tegai on 16.06.2021.
 //
 
 import SwiftUI
